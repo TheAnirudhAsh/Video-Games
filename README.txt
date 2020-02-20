@@ -1,7 +1,7 @@
 Hello!
 Welcome to my Github.
 
-You will find a Python3 script in this repository which shows a basic analysis I conducted on a video games
+You will find a Python3 script in this repository which shows a basic exploratory data analysis I conducted on a video games
 data set I found on Kaggle.
 
 
@@ -19,3 +19,6 @@ subject:
 Thank you and hope you enjoy learning!
 
 -----------------------------------------------------------------------------------------------------------
+
+Part 1 - Released on 2/20/20
+Part 2 - Coming soon!
