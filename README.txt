@@ -9,8 +9,7 @@ A huge thanks to my friend and former-colleague Rush Kirubi for putting together
 sharing it on Kaggle.
 
 
-This is meant to be some sort of a tutorial for new learners and beginners who are new to the world of Analysis using
-Python.
+This is meant to be a tutorial for new learners and beginners who are new to the world of Analysis using Python.
 
 
 If you have any questions/comments/suggestions please feel free to email me on anirudh.ash2594@gmail.com with the
