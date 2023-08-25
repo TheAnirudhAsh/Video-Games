@@ -21,4 +21,4 @@ Thank you and hope you enjoy learning!
 -----------------------------------------------------------------------------------------------------------
 
 Part 1 - Released on 2/20/20
-Part 2 - Coming soon!
+
